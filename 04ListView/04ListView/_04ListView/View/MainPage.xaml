@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_04ListView.View.MainPage">
+  <ListView ItemsSource="{Binding Items}" RowHeight="150" CachingStrategy="RecycleElement">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <ViewCell>
+          <ViewCell.View>
+            <Grid HeightRequest="150">
+              <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="100"/>
+              </Grid.RowDefinitions>
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition/>
+              </Grid.ColumnDefinitions>
+
+              <Image Grid.Column="0" Grid.Row="0" Grid.RowSpan="2"
+                     Source="{Binding ImageUri}"/>
+              <Label Grid.Column="1" Grid.Row="0" FontSize="24" FontAttributes="Bold"
+                     Text="{Binding Title}" HeightRequest="50"/>
+              <Label Grid.Column="1" Grid.Row="1" FontSize="12" LineBreakMode="WordWrap"
+                     Text="{Binding Description}" HeightRequest="100"/>
+            </Grid>
+          </ViewCell.View>
+        </ViewCell>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>
+</ContentPage>

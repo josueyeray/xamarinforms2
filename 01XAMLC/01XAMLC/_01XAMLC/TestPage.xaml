@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_01XAMLC.TestPage">
+  <ScrollView>
+    <StackLayout>
+      <StackLayout>
+        <Label Text="Label 0" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 1" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 2" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 3" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 4" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 5" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 6" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 7" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 8" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 9" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 10" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 11" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 12" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 13" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 14" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 15" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 16" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 17" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 18" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 19" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 20" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 21" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 22" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 23" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 24" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 25" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 26" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 27" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 28" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 29" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 30" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 31" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 32" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 33" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 34" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 35" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 36" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 37" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 38" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 39" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 40" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 41" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 42" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 43" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 44" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 45" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 46" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 47" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 48" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 49" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 50" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 51" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 52" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 53" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 54" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 55" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 56" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 57" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 58" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 59" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 60" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 61" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 62" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 63" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 64" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 65" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 66" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 67" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 68" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 69" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 70" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 71" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 72" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 73" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 74" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 75" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 76" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 77" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 78" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 79" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 80" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 81" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 82" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 83" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 84" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 85" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 86" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 87" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 88" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 89" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 90" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 91" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 92" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 93" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 94" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 95" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 96" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 97" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 98" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 99" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 0" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 1" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 2" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 3" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 4" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 5" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 6" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 7" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 8" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 9" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 10" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 11" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 12" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 13" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 14" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 15" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 16" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 17" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 18" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 19" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 20" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 21" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 22" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 23" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 24" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 25" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 26" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 27" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 28" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 29" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 30" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 31" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 32" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 33" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 34" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 35" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 36" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 37" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 38" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 39" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 40" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 41" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 42" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 43" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 44" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 45" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 46" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 47" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 48" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 49" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 50" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 51" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 52" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 53" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 54" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 55" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 56" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 57" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 58" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 59" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 60" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 61" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 62" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 63" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 64" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 65" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 66" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 67" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 68" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 69" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 70" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 71" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 72" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 73" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 74" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 75" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 76" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 77" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 78" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 79" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 80" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 81" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 82" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 83" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 84" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 85" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 86" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 87" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 88" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 89" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Label 90" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 91" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 92" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 93" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 94" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 95" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 96" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 97" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 98" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label Text="Label 99" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

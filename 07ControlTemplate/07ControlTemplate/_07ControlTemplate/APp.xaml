@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:_07ControlTemplate.Views;assembly=_07ControlTemplate"
+             x:Class="_07ControlTemplate.App">
+  <Application.Resources>
+    <ResourceDictionary>
+      <ControlTemplate x:Key="LoginTemplate">
+        <StackLayout VerticalOptions="CenterAndExpand" Spacing="20" Padding="20">
+          <Entry Text="{TemplateBinding Username}" Placeholder="Username" />
+          <Entry Text="{TemplateBinding Password}" Placeholder="Password" />
+          <Button Command="{TemplateBinding Command}" Text="Click Here To Log In" />
+        </StackLayout>
+      </ControlTemplate>
+
+      <Style TargetType="views:MainView" x:Key="LoginPageStyle">
+        <Style.Setters>
+          <Setter Property="ControlTemplate" Value="{StaticResource LoginTemplate}" />
+        </Style.Setters>
+      </Style>
+    </ResourceDictionary>
+  </Application.Resources>
+</Application>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vms="clr-namespace:_06DataTemplateSelector.ViewModels;assembly=_06DataTemplateSelector"
+             x:Class="_06DataTemplateSelector.App">
+  <Application.Resources>
+    <ResourceDictionary>
+      <DataTemplate x:Key="ActionMovieTemplate">
+        <ViewCell Height="150">
+          <ViewCell.View>
+            <Grid BackgroundColor="#FFFFBBBB">
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+              </Grid.ColumnDefinitions>
+              <Image Grid.Column="0" Source="{Binding Picture}"/>
+              <StackLayout Grid.Column="1">
+                <Label FontSize="24" Text="{Binding Title}" LineBreakMode="TailTruncation"/>
+                <Label FontSize="16" Text="{Binding Description}" LineBreakMode="WordWrap" HeightRequest="100"/>
+              </StackLayout>
+            </Grid>
+          </ViewCell.View>
+        </ViewCell>
+      </DataTemplate>
+
+      <DataTemplate x:Key="AdventureMovieTemplate">
+        <ViewCell Height="150">
+          <ViewCell.View>
+            <Grid BackgroundColor="#FFBBFFBB">
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+              </Grid.ColumnDefinitions>
+              <Image Grid.Column="0" Source="{Binding Picture}"/>
+              <StackLayout Grid.Column="1">
+                <Label FontSize="24" Text="{Binding Title}" LineBreakMode="TailTruncation"/>
+                <Label FontSize="16" Text="{Binding Description}" LineBreakMode="WordWrap" HeightRequest="100"/>
+              </StackLayout>
+            </Grid>
+          </ViewCell.View>
+        </ViewCell>
+      </DataTemplate>
+
+      <DataTemplate x:Key="SciFiMovieTemplate">
+        <ViewCell Height="150">
+          <ViewCell.View>
+            <Grid BackgroundColor="#FFBBBBFF">
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+              </Grid.ColumnDefinitions>
+              <Image Grid.Column="0" Source="{Binding Picture}"/>
+              <StackLayout Grid.Column="1">
+                <Label FontSize="24" Text="{Binding Title}" LineBreakMode="TailTruncation"/>
+                <Label FontSize="16" Text="{Binding Description}" LineBreakMode="WordWrap" HeightRequest="100"/>
+              </StackLayout>
+            </Grid>
+          </ViewCell.View>
+        </ViewCell>
+      </DataTemplate>
+      <vms:MainViewModel x:Key="MainVM"/>
+    </ResourceDictionary>
+  </Application.Resources>
+</Application>
